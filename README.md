@@ -1,4 +1,5 @@
-# Hello! This is a CRUD implementation on the Vehicle class, Mitchell SDE Intern Coding Challenge.
+# Mitchell SDE Intern Coding Challenge
+Hello! This is a CRUD implementation on the Vehicle class, Mitchell SDE Intern Coding Challenge.
 
 The vehicle class has 4 instances:
 - ID (as an integer) -> each object should have a unique ID
