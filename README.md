@@ -21,9 +21,11 @@ Each of the method above is being tested independently with JUnit, which is in t
 On top of that, there is a *Demo* class (contains main method) that allows us to see all of the operations working together in action!
 
 ## To run the program:
+- locate current working directory to src directory.
 - run `make` to compile the program.
 - run `make run` to run the Demo file.
 
 ## To run test of the program:
+- locate current working directory to src directory.
 - run `make test` to compile test files.
 - run `make testrun` to run the test.
