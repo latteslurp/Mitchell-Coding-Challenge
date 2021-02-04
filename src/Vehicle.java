@@ -7,9 +7,6 @@ public class Vehicle {
     private String make;
     private String model;
 
-    // map to store all vehicles
-    private static Map<Integer, Vehicle> garage = new HashMap<>();
-
 
     public Vehicle(int id, int year, String make, String model){
         this.id = id;
