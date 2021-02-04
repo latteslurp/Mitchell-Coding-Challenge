@@ -16,14 +16,14 @@ In the VehicleCRUD, there are 6 main implementations:
 - Delete Vehicle by ID: Delete/remove an existing Vehicle object by a matching ID given from the user input. (return boolean)
 Within the VehicleCRUD, all existing Vehicles Object are stored in a HashMap, where the id acts as the item's key and the Vehicle object as the item's value.
 
-Each of the methods above is being tested independently with JUnit, on the VehicleCRUDTest file.
+Each of the method above is being tested independently with JUnit, on the VehicleCRUDTest file.
 
 On top of that, there is a Demo file (contains main method) that allows us to see all of the operations working together in action!
 
 ## To run the program:
-- run 'make' to compile the program.
-- run 'make run' to run the Demo file.
+- run `make` to compile the program.
+- run `make run` to run the Demo file.
 
 ## To run test of the program:
-- run 'make test' to compile test files.
-- run 'make testrun' to run the test.
+- run `make test` to compile test files.
+- run `make testrun` to run the test.
